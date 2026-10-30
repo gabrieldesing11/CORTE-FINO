@@ -1,0 +1,6 @@
+{
+  "name": "Corte Fino Barbería - Lanzamiento y Reservas",
+  "description": "Landing page oficial para el evento de lanzamiento de Corte Fino Barbería en Bogotá: servicios de corte y barba de precisión, promoción de apertura $24.000, productos exclusivos y reservas online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
