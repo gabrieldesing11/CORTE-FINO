@@ -106,7 +106,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 4.9,
     imageIcon: 'jar',
-    imageUrl: '/src/assets/images/pomada_mate_barberia_1793322092556.jpg'
+    imageUrl: 'images/pomada_mate.jpg'
   },
   {
     id: 'aceite-barba-roble-cedro',
@@ -120,7 +120,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 5.0,
     imageIcon: 'dropper',
-    imageUrl: '/src/assets/images/aceite_barba_gotero_1793322093728.jpg'
+    imageUrl: 'images/aceite_barba.jpg'
   },
   {
     id: 'balsamo-aftershave-menta',
@@ -134,7 +134,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 4.8,
     imageIcon: 'lotion',
-    imageUrl: '/src/assets/images/balsamo_aftershave_1793322094200.jpg'
+    imageUrl: 'images/balsamo_aftershave.jpg'
   },
   {
     id: 'cera-brillo-vintage',
@@ -147,7 +147,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 4.7,
     imageIcon: 'jar',
-    imageUrl: '/src/assets/images/cera_brillo_clasica_1793322094615.jpg'
+    imageUrl: 'images/cera_brillo.jpg'
   },
   {
     id: 'peine-madera-sandalo',
@@ -160,7 +160,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 4.9,
     imageIcon: 'comb',
-    imageUrl: '/src/assets/images/peine_madera_sandalo_1793322095364.jpg'
+    imageUrl: 'images/peine_madera.jpg'
   },
   {
     id: 'kit-lanzamiento-completo',
@@ -174,7 +174,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     rating: 5.0,
     imageIcon: 'box',
-    imageUrl: '/src/assets/images/kit_lanzamiento_lujo_1793322096332.jpg'
+    imageUrl: 'images/kit_lanzamiento.jpg'
   }
 ];
 

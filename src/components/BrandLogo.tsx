@@ -30,7 +30,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({
       {/* Official Monogram Logo from user attachment */}
       <div className={`relative flex items-center justify-center shrink-0 ${iconSizes[size]}`}>
         <img
-          src="/assets/aistudio/logo_sin_fondo_a5f7feae.png"
+          src="images/logo.png"
           alt="Corte Fino Barbería Logo"
           className="w-full h-full object-contain drop-shadow-[0_2px_8px_rgba(168,137,88,0.25)] transition-transform duration-200 group-hover:scale-105"
         />

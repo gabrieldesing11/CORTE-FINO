@@ -133,7 +133,7 @@ export const Hero: React.FC<HeroProps> = ({
                 {/* Image */}
                 <div className="relative overflow-hidden rounded bg-[#101214] aspect-[3/4]">
                   <img
-                    src="/assets/aistudio/BARBERIA_1cc31b59.png"
+                    src="images/afiche_lanzamiento.png"
                     alt="Corte Fino Barbería - Afiche Oficial Promoción de Apertura Corte y Barba 24000"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
                   />

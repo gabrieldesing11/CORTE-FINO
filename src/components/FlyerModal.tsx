@@ -38,7 +38,7 @@ export const FlyerModal: React.FC<FlyerModalProps> = ({
         {/* Modal Image Body */}
         <div className="flex-1 overflow-y-auto p-4 flex items-center justify-center bg-[#101214]">
           <img
-            src="/assets/aistudio/BARBERIA_1cc31b59.png"
+            src="images/afiche_lanzamiento.png"
             alt="Corte Fino Barbería - Promoción de Apertura Corte + Barba 24.000 COP"
             className="w-full max-h-[70vh] object-contain rounded shadow-lg border border-[#A88958]/30"
           />
